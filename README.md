@@ -18,6 +18,7 @@ I tried following basic coding sytle guidelines
  * Underscore word separaton for variable names
  
 ## Screenshots
+![Image of Mandelbrot ](https://github.com/craig-warner/JuliaMandelbrot/edit/main/ScreenShot1.PNG)
 
 
 ## Framework Used
