@@ -32,8 +32,14 @@ The number of threads is configurable
 ## Installation
 Install Julia
 
+Install GTK
+1.julia
+2.import Pkg; Pkg.add("Gtk")
+
+
+
 ## Tests
-Nodne
+None
 
 ## Contribute
 I you want to help enance this, send me an email
